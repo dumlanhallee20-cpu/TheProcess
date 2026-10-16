@@ -1,3 +1,5 @@
+Project Title: TheProcess
+
 Student Name: Dumlan, Hallee Husie
 
 Website Category: Appointment Booking / Service Management (small business, barbershop)
